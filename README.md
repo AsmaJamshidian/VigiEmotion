@@ -84,7 +84,7 @@ python main.py
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](../LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]([../LICENSE](https://github.com/AsmaJamshidian/VigiEmotion/blob/main/LICENSE)) file for details.
 
 ---
 
