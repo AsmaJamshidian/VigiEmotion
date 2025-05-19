@@ -1,8 +1,4 @@
-+------------------+----------------------------------------------+
-| Package Name     | Purpose / Usage                              |
-+------------------+----------------------------------------------+
-| opencv-python    | Accessing webcam, image capture & drawing    |
-| deepfake         | Face detection, emotion, age, gender analysis|
-| requests         | Sending photos to Telegram via API           |
-| python-dotenv    | Loading .env variables (token, chat ID)      |
-+------------------+----------------------------------------------+
+opencv-python         # Accessing webcam, image capture & drawing
+deepface              # Face detection, emotion, age, gender analysis
+requests              # Sending photos to Telegram via API
+python-dotenv         # Loading .env variables (token, chat ID)
