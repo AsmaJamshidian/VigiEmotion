@@ -89,5 +89,5 @@ This project is licensed under the MIT License. See the [LICENSE](https://github
 ---
 
 
-VigiEmotion combines AI-driven emotion recognition with real-time security alerts to provide a smart and reliable surveillance solution.
+VigiEmotion combines AI-driven emotion recognition with real-time security alerts to provide a smart and reliable surveillance solution
 
